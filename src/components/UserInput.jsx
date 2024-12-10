@@ -1,4 +1,7 @@
+import { useState } from "react";
+
 export default function UserInput() {
+  useState();
   return (
     <section id="user-input">
       <div className="input-group">
