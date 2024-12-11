@@ -31,9 +31,3 @@ Per eseguire l'app, assicurati di avere Node.js e npm installati. Quindi, esegui
 npm install
 npm run dev
 ```
-
-L'app sarà disponibile su `http://localhost:3000`.
-
-## Licenza
-
-Questo progetto è concesso in licenza sotto la MIT License.
